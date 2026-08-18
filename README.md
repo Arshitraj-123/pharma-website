@@ -2,6 +2,8 @@
 
 A modern Single Page Application (SPA) for a pharmaceutical website.
 
+**🌍 Live Demo:** [https://arshitraj-123.github.io/pharma-website/](https://arshitraj-123.github.io/pharma-website/)
+
 ## 🚀 Tech Stack
 
 - **Framework**: [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
